@@ -4,12 +4,12 @@ import { FloatingNav } from "./ui/floating-navbar";
 export function FloatingNavDemo() {
   const navItems = [
     {
-      name: "Home",
-      link: "/",
+      name: "Features",
+      link: "#features",
     },
     {
       name: "About",
-      link: "/about",
+      link: "#about",
     },
     {
       name: "Contact",

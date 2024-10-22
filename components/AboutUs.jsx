@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 const AboutUs = () => {
   return (
-    <div>
+    <div id='about'>
       <section class="">
         <div class="container mx-auto py-16 px-4 sm:px-6 lg:px-8">
           <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
