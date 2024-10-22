@@ -13,7 +13,7 @@ const Footer = () => {
         </a>
 
         <span class="block text-sm text-center text-gray-500">
-          © 2023-2024 Landwind™. All Rights Reserved.
+          © 2023-2024 TankGen™. All Rights Reserved.
         </span>
 
         <ul class="flex justify-center mt-5 space-x-5">

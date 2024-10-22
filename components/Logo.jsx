@@ -3,12 +3,12 @@ import Image from 'next/image';
 
 const Logo = () => {
   return (
-    <div className="absolute top-1">
+    <div className="fixed top-[-20px] left-3">
       <Image
-        className="object-cover inset-0 z-[2] opacity-[0.2] w-full h-[120vh] rounded-lg shadow-md dark:shadow-lg "
-        src="/Images/en.jpg"
-        width={50}
-        height={20}
+        className="object-cover inset-0 z-[2] opacity-[3]  rounded-lg shadow-md dark:shadow-lg "
+        src="/tankgenLogo.jpg"
+        width={190}
+        height={80}
         alt="Picture of the author"
       />{" "}
     </div>

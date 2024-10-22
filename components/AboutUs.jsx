@@ -30,7 +30,7 @@ const AboutUs = () => {
             <div class="mt-12 md:mt-0">
               <Image
                 className="object-cover inset-0  w-full h-auto rounded-lg shadow-md dark:shadow-lg "
-                src="/Images/tankgen.jpg"
+                src="/tankgen.jpg"
                 width={500}
                 height={700}
                 alt="Picture of the author"
