@@ -19,9 +19,9 @@ export default function Home() {
   <Service/>
   <WhyUs/>
   <AboutUs/>
+  <Contact/>
   <Footer/>
   <Logo/>
-  <Contact/>
    </div>
   );
 }

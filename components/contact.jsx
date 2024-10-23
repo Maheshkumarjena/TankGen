@@ -10,7 +10,7 @@ const Contact = () => {
             <h1 class="text-4xl text-gray-100 sm:text-4xl font-bold title-font mb-4">Contact Us</h1>
             <p class="leading-relaxed text-xl text-gray-200">
                 We're here to assist you! If you have any questions or need assistance, please feel free to reach out to
-                us.
+                .
                 <br/>
                 You can also email us
                    <a href="https://veilmail.io/e/FkKh7o" class="font-medium text-blue-600 hover:underline">click here to reveal our protected email address</a>
