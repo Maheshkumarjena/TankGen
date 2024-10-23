@@ -19,7 +19,7 @@ export default function Home() {
   <Service/>
   <WhyUs/>
   <AboutUs/>
-  <Contact/>
+  {/* <Contact/> */}
   <Footer/>
   <Logo/>
    </div>
